@@ -10,5 +10,5 @@ This project was created by taking AIRBNB NYC 2019 data and then identifying KPI
 
 The dashboards were titled Neighbourhood view, service view, guest view, and concluding insights.
 
-https://www.canva.com/design/DAFunSZ3I0k/9-J6nnYPYRlVAfav3re_Vw/edit?utm_content=DAFunSZ3I0k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFunSZ3I0k/ss5RjLc8GmX0Cfj3a-c1pw/view?utm_content=DAFunSZ3I0k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
